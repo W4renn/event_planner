@@ -1,4 +1,4 @@
-import React from 'react';
+
 import './EventPlanner.css'; // Import CSS file for styling
 
 const EventPlanner = () => {
